@@ -7,5 +7,5 @@ My goal is to become a software programmer and work on innovative projects that 
 ## Contact Info
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/oscar-herevia-658015384/)
 ## Programming Languages
-I am currenly learning how to use C++ [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+I am currenly learning how to use C++ [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) <br>
 I have had previous experience with Java Script [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
