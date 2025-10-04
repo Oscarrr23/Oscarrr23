@@ -14,9 +14,8 @@ I have had previous experience with Java Script [![JavaScript](https://img.shiel
 ## ⚡ GitHub Stats
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscarrr23&show_icons=true&theme=tokyonight) <br>
 ## 🧩 Interests
-Going to the gym everyday 💪
-Playing basketball in my free time 🏀
-Driving around in my truck 🛻
-![Basketball GIF](https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif)
-
+Going to the gym everyday 💪 <br>
+Playing basketball in my free time 🏀<br>
+Driving around in my truck 🛻<br>
+![Car GIF](https://media.giphy.com/media/3o6nUO0QwQ7G4E8nLW/giphy.gif)
 
