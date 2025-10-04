@@ -1,5 +1,4 @@
-# Hello! 
-My name is Oscar Herevia.
+# 👋 Hello! I'm Oscar Herevia
 ## About Me
 I am currently a pursuing a Bachelor's degree in computer science at The University of Texas at Rio Grande Valley. 
 I enjoy learning about technology and how computer progarms work. 
