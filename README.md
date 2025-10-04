@@ -17,5 +17,3 @@ I have had previous experience with Java Script [![JavaScript](https://img.shiel
 Going to the gym everyday 💪 <br>
 Playing basketball in my free time 🏀<br>
 Driving around in my truck 🛻<br>
-![Car GIF](https://media.giphy.com/media/3o6nUO0QwQ7G4E8nLW/giphy.gif)
-
