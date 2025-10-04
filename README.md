@@ -1,5 +1,4 @@
 # 👋 Hello! I'm Oscar Herevia
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Basketball+player;Car+enthusiast;Future+software+engineer)](https://git.io/typing-svg)
 🎓 Computer Science Student @ UTRGV <br>
 👨‍💻 Future Software Programmer | 🚀 Tech Enthusiast
 ## 🧠 About Me
@@ -13,5 +12,11 @@ My LinkedIn: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-
 I am currenly learning how to use C++ [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) <br>
 I have had previous experience with Java Script [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ## ⚡ GitHub Stats
-![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscarrr23&show_icons=true&theme=tokyonight)
+![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscarrr23&show_icons=true&theme=tokyonight) <br>
+## 🧩 Interests
+Going to the gym everyday 💪
+Playing basketball in my free time 🏀
+Driving around in my truck 🛻
+![Basketball GIF](https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif)
+
 
