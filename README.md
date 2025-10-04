@@ -1,4 +1,5 @@
 # 👋 Hello! I'm Oscar Herevia
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Basketball+player;Car+enthusiast;Future+software+engineer)](https://git.io/typing-svg)
 🎓 Computer Science Student @ UTRGV <br>
 👨‍💻 Future Software Programmer | 🚀 Tech Enthusiast
 ## 🧠 About Me
