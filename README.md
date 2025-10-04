@@ -1,4 +1,5 @@
-# 👋 Hello! I'm Oscar Herevia
+# 👋 Hello! I'm Oscar Herevia <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=“We+are+what+we+repeatedly+do.”;“Excellence+is+not+an+act+but+a+habit.”;–+Aristotle)](https://git.io/typing-svg) <br>
 🎓 Computer Science Student @ UTRGV <br>
 👨‍💻 Future Software Programmer | 🚀 Tech Enthusiast
 ## 🧠 About Me
@@ -14,6 +15,6 @@ I have had previous experience with Java Script [![JavaScript](https://img.shiel
 ## ⚡ GitHub Stats
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscarrr23&show_icons=true&theme=tokyonight) <br>
 ## 🧩 Interests
-Going to the gym everyday 💪 <br>
-Playing basketball in my free time 🏀<br>
-Driving around in my truck 🛻<br>
+💪 Going to the gym everyday  <br>
+🏀 Playing basketball in my free time <br>
+🛻 Driving around in my truck <br>
