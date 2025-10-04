@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Oscar Herevia
-🎓 Computer Science Student @ UTRGV
+🎓 Computer Science Student @ UTRGV <br>
 💻 Future Software Programmer | 🚀 Tech Enthusiast
 ## 🧠 About Me
 🤓 I am currently a pursuing a Bachelor's degree in computer science at The University of Texas at Rio Grande Valley. <br>
