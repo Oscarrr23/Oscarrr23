@@ -11,3 +11,6 @@ My LinkedIn: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-
 ## 💻 Programming Languages
 I am currenly learning how to use C++ [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) <br>
 I have had previous experience with Java Script [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+## ⚡ GitHub Stats
+![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscarrr23&show_icons=true&theme=tokyonight)
+
