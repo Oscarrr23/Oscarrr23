@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Oscar Herevia <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=“And+whatever+you+do,+do+it+heartily.”;“As+to+the+Lord,+not+for+men.”;–+Colossians+3:23)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=“And+whatever+you+do,""+Do+it+heartily.”;“As+to+the+Lord,+not+for+men.”;–+Colossians+3:23)](https://git.io/typing-svg)<br>
 🎓 Computer Science Student @ UTRGV <br>
 👨‍💻 Future Software Programmer | 🚀 Tech Enthusiast
 ## 🧠 About Me
