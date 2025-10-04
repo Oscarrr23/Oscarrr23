@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Oscar Herevia <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=“We+are+what+we+repeatedly+do.”;“Excellence+is+not+an+act+but+a+habit.”;–+Aristotle)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=“We+are+what+we+repeatedly+do.”;“Excellence+,+then,";"Is+not+an+act+but+a+habit.”;–+Aristotle)](https://git.io/typing-svg) <br>
 🎓 Computer Science Student @ UTRGV <br>
 👨‍💻 Future Software Programmer | 🚀 Tech Enthusiast
 ## 🧠 About Me
