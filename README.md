@@ -5,7 +5,7 @@ I am currently a pursuing a Bachelor's degree in computer science at The Univers
 I enjoy learning about technology and how computer progarms work. 
 My goal is to become a software programmer and work on innovative projects that make an impact.
 ## Contact Info
-My email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](oaherevia@gmail.com) <br>
+My email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:oaherevia@gmail.com) <br>
 My LinkedIn: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/oscar-herevia-658015384/)
 ## Programming Languages
 I am currenly learning how to use C++ [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) <br>
