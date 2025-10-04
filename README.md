@@ -1,7 +1,10 @@
-# About Me
+# 
 Hello, my name is Oscar Herevia.
 ### What am I doing currently?
 I am currently a pursuing a Bachelor's degree in computer science at The University of Texas at Rio Grande Valley.
+# Contact Info
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/oscar-herevia-658015384/)
+
 <!--
 **Oscarrr23/Oscarrr23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
